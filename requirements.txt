@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+scikit-learn
+imblearn
+joblib
+packaging
+
+# Visualization
+matplotlib
+seaborn
+missingno
+plotly
+
+# Statistics / EDA
+scipy
+statsmodels
+
+# Machine Learning Libraries
+xgboost
+lightgbm
+
+# Streamlit App
+streamlit
+
+# shap
+optuna
+ipython
